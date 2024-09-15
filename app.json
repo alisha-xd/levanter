@@ -25,7 +25,7 @@
       "value": "."
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "levanter_16e8ab4d6fae7f447495b39a01d2bff1d9",
       "required": true,
       "value": ""
     },
@@ -95,12 +95,12 @@
     "REJECT_CALL": {
       "description": "auto reject call, if set as true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
